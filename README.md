@@ -1,6 +1,9 @@
 # Preprocessing Data with NumPy (Udemy - 365 Careers)
 
-![Course Cover](https://media.licdn.com/dms/image/v2/D5612AQHQFbVqDismjA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1695806526022?e=2147483647&v=beta&t=qpma2RLw_wa3IJCfHOaBROXU88Okd9oTDy4yOlgtu7Q)
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5612AQHQFbVqDismjA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1695806526022?e=2147483647&v=beta&t=qpma2RLw_wa3IJCfHOaBROXU88Okd9oTDy4yOlgtu7Q" alt="Course Cover">
+</div>
+
 
 Welcome to the repository for the **"Preprocessing Data with NumPy"** Udemy course by **365 Careers**. This repository contains all coding notebooks and exercises from the course, designed to enhance skills in data preprocessing and scientific computing using NumPy.
 
